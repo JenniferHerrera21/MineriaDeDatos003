@@ -11,6 +11,7 @@
 
 [Presentación  Maquina de Soporte Vectorias](https://github.com/AnakarenSegovia/Mineriadatos/blob/main/Presentaci%C3%B3n_M%C3%A1quina%20de%20soporte%20vectorial_5.pdf)
 
-[Presentación Equipo 5](https://github.com/AnakarenSegovia/Mineriadatos/blob/main/Calificaci%C3%B3n_M%C3%A1quinas-de-soporte-vectorial_05.pdf)
+[Presentación Equipo 5](https://github.com/AnakarenSegovia/Mineriadatos/blob/main/Presentaci%C3%B3n_M%C3%A1quina%20de%20soporte%20vectorial_05.pdf)
 
+[Calificaciones Mini examen Kahoot](https://github.com/AnakarenSegovia/Mineriadatos/blob/main/Calificaci%C3%B3n_M%C3%A1quinas-de-soporte-vectorial_05.pdf)
 
