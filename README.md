@@ -17,4 +17,4 @@
 
 [Calificaciones Mini examen Kahoot](https://github.com/AnakarenSegovia/Mineriadatos/blob/main/Calificaci%C3%B3n_M%C3%A1quinas-de-soporte-vectorial_05.pdf)
 
-[Mapa mental II]
+[Mapa mental II](https://github.com/JenniferHerrera21/MineriaDeDatos003/blob/main/MapaMental_2_%7B1663288%7D.pdf)
