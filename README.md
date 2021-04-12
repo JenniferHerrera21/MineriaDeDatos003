@@ -20,3 +20,5 @@
 [Mapa mental II](https://github.com/JenniferHerrera21/MineriaDeDatos003/blob/main/MapaMental_2_%7B1663288%7D.pdf)
 
 [Ejercicio de visualización Base Principal](https://github.com/JenniferHerrera21/MineriaDeDatos003/blob/main/Visualizacion_Equipo5.pdf)
+
+[Avance  del PIA II](https://github.com/JenniferHerrera21/MineriaDeDatos003/blob/main/%20AvancePIA_II_Grupo003_Equipo5.ipynb)
