@@ -25,6 +25,7 @@
 
 [Avance  del PIA II](https://github.com/JenniferHerrera21/MineriaDeDatos003/blob/main/%20AvancePIA_II_Grupo003_Equipo5.ipynb)
 
-[Avance del PIA II corregido](https://github.com/JenniferHerrera21/MineriaDeDatos003/blob/main/%20AvancePIA_II_Grupo003_Equipo5Corregido.ipynb)
+[Avance del PIA II corregido] (https://github.com/JenniferHerrera21/MineriaDeDatos003/blob/main/%20AvancePIA_II_Grupo003_Equipo5Corregido.ipynb)
 
-[Poster del PIA](https://github.com/JenniferHerrera21/MineriaDeDatos003/blob/main/Poster_Mineria%20(4).pdf)
+
+
